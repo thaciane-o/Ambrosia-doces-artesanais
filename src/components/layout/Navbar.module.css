@@ -1,0 +1,36 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    background-color: #f2d8c9;
+    padding: 1em;
+}
+
+.navbar ul {
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+
+.navbar li {
+    margin-right: 1em;
+}
+
+.navbar a {
+    color: #8c4014;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    color: #592b03;
+}
+
+.icons {
+    color: #8c4014;
+    cursor: pointer;
+    width: 20px;
+    height: 30px;
+}
+
+.icons:hover {
+    color: #592b03;
+}
