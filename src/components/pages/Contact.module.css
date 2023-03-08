@@ -1,0 +1,29 @@
+.container {
+    margin: 1.5em;
+}
+
+.container ul {
+    display: block;
+    align-items: center;
+    list-style: none;
+}
+
+.container li {
+    margin: 1em;
+}
+
+.container h1 {
+    font-size: 2.5em;
+    margin-bottom: .5em;
+    
+}
+
+.container h2{
+    font-size: 1em;
+    margin-bottom: .5em;
+    color: #592b03;
+}
+
+.container p {
+    color: #8c4014;
+}
