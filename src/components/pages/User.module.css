@@ -1,6 +1,5 @@
 .container {
     width: 40%;
-
 }
 
 .container_line {
@@ -18,4 +17,5 @@
 .container h1 {
     font-size: 2.5em;
     margin-bottom: .5em;
+    color: #592b03;
 }

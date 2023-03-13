@@ -1,0 +1,14 @@
+.container { 
+    margin: 1em;
+}
+
+.container h3 {
+    font-size: 2em;
+    margin-top: .5em;
+    color: #592b03;
+}
+
+.container p {
+    color: #8c4014;
+    font-size: 1.5em;
+}
